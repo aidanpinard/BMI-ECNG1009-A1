@@ -1,0 +1,15 @@
+Values
+44
+37
+56
+60
+43
+71
+52
+33
+48
+49
+
+Results
+Mean: 49.30
+Percent of values: 90.00%
